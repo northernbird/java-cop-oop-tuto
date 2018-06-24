@@ -1,0 +1,9 @@
+.eclipse
+.settings
+.classpath
+# Compiled class file
+*.class
+bin/
+*.log
+.DS_Store
+.project
